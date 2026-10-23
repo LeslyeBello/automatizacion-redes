@@ -40,7 +40,6 @@ Considero que la documentación oficial de Python es uno de los recursos más ú
 | Cómo probaría la solución | Probaría con R1, R2 y un nombre que no exista para comprobar los resultados. |
 | Cómo documentaría la solución | Anotaría el recurso consultado, la explicación y los resultados de las pruebas en el repositorio. |
 
-Esta estrategia es hipotética; no es necesario modificar el programa para completar esta parte de la práctica.
 
 ## Aprendizajes
 
