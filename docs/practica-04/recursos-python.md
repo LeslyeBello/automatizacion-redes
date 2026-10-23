@@ -6,7 +6,7 @@ Es la información publicada por los responsables de un lenguaje de programació
 
 ## ¿Qué información se puede encontrar?
 
-Se pueden encontrar explicaciones, ejemplos, funciones, tipos de datos, instrucciones y recomendaciones para utilizar el lenguaje.
+Se pueden encontrar explicaciones, ejemplos, funciones, tipos de datos, instrucciones y recomendaciones para utilizar el lenguaje. 
 
 ## ¿Cómo ayuda a resolver dudas?
 

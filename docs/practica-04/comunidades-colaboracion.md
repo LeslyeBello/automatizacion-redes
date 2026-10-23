@@ -2,7 +2,7 @@
 
 ## Recursos para resolver dudas técnicas
 
-| Comunidad o recurso | Tipo de recurso | Problemas que ayuda a resolver | ¿Cómo puede utilizarlo el equipo? |
+| Comunidad o recurso |  Tipo de recurso | Problemas que ayuda a resolver | ¿Cómo puede utilizarlo el equipo? |
 |---|---|---|---|
 | Stack Overflow en español | Comunidad de preguntas y respuestas | Errores de programación, dudas sobre Python y problemas con código. | Buscar preguntas similares y consultar soluciones explicadas por otros usuarios. |
 | GitHub | Plataforma de repositorios y colaboración | Problemas con el código, seguimiento de errores, revisión de cambios y trabajo en equipo. | Compartir código, revisar cambios y registrar problemas del proyecto. |

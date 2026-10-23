@@ -103,5 +103,4 @@ También aprendí que Netmiko permite automatizar tareas en dispositivos de red 
 Es importante revisar qué dispositivos y funciones admite una biblioteca antes de utilizarla.
 Las comunidades de colaboración permiten encontrar respuestas y aprender de otras personas.
 Antes de aplicar una solución, debo verificar que sea confiable y adecuada para mi problema.
-También comprendí que documentar los recursos en GitHub facilita el trabajo en equipo.
 Estos conocimientos me ayudarán a resolver problemas y mejorar el proyecto integrador en futuras prácticas.
