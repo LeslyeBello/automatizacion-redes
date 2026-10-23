@@ -92,3 +92,16 @@ Se inició la exploración de documentación técnica y recursos de colaboració
 Se continuará con la documentación de redes, las comunidades de colaboración y la evaluación de recursos técnicos.
 
 **Siguiente paso:** integrar los recursos encontrados por el equipo, revisar las evidencias y comprobar que los archivos estén actualizados en GitHub.
+
+## Lecciones aprendidas
+
+Durante esta práctica aprendí que es importante consultar documentación técnica antes de utilizar una herramienta o biblioteca. También comprendí que las comunidades permiten encontrar respuestas a problemas similares y conocer otras formas de resolverlos. Antes de utilizar una solución, debo comprobar que sea confiable y compatible con mi proyecto. Finalmente, guardar los recursos y las evidencias en GitHub ayuda a organizar la información y facilita su consulta en futuras prácticas.
+## Conclusión individual 
+
+Leslye bello: en esta práctica aprendí a buscar documentación para resolver dudas sobre redes y programación. Comprendí que GNS3 tiene documentación que ayuda a conocer su instalación y funcionamiento.
+También aprendí que Netmiko permite automatizar tareas en dispositivos de red compatibles.
+Es importante revisar qué dispositivos y funciones admite una biblioteca antes de utilizarla.
+Las comunidades de colaboración permiten encontrar respuestas y aprender de otras personas.
+Antes de aplicar una solución, debo verificar que sea confiable y adecuada para mi problema.
+También comprendí que documentar los recursos en GitHub facilita el trabajo en equipo.
+Estos conocimientos me ayudarán a resolver problemas y mejorar el proyecto integrador en futuras prácticas.
