@@ -23,8 +23,8 @@ dispositivos = [
         "loopback": "1.1.1.1",
         "interfaz": "GigabitEthernet0/0",
         "estado": "Fuera de servicio",
-        "fabricante": "Cisco",          # Reto Parte 8: Dato extendido 1
-        "protocolo": "OSPF"              # Reto Parte 8: Dato extendido 2
+        "fabricante": "Cisco",          
+        "protocolo": "OSPF"             
     },
     {
         "nombre": "R2",

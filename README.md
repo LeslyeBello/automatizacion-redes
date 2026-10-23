@@ -1,16 +1,7 @@
-Avance del proyecto integrador
-Práctica 1
-Preparación de la estación de automatización de redes.  
-Estado: Completada.
+## Práctica 4. Recursos de documentación y colaboración
 
-Práctica 2
-Construcción de la red simulada en GNS3.  
-Estado: Completada.  
+Se inició la exploración de documentación técnica y recursos de colaboración para el proyecto integrador. Se consultaron recursos oficiales de Python y se organizó la información en la carpeta `docs/practica-04/`.
 
-Infraestructura construida:
-- Topología básica PC-Switch-PC.
-- Topología con dos routers y un switch multicapa.
-- Direccionamiento IP.
-- Conectividad entre dispositivos.
-- Protocolo OSPF.
-- Verificación de tablas de enrutamiento.
+Se continuará con la documentación de redes, las comunidades de colaboración y la evaluación de recursos técnicos.
+
+**Siguiente paso:** integrar los recursos encontrados por el equipo, revisar las evidencias y comprobar que los archivos estén actualizados en GitHub.
